@@ -2,6 +2,8 @@
 
 ### Цель - изучение фреймворков для тестирования на примере GTest
 
+[![Coverage Status](https://coveralls.io/repos/github/KseniaGavr/lab05/badge.png?branch=master)](https://coveralls.io/github/KseniaGavr/lab05?branch=master)
+
 Создам *fork* репозитория Lab05 (https://github.com/tp-labs/lab05)<br />
 Создам локальный репозиторий: ```$ git clone https://github.com/a0730c/LAB5```<br />
 
